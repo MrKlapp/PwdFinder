@@ -1,0 +1,7 @@
+D:\DevLocal\PwdFinder\PwdFinder\PwdFinder\bin\Debug\PwdFinder.exe.config
+D:\DevLocal\PwdFinder\PwdFinder\PwdFinder\bin\Debug\PwdFinder.exe
+D:\DevLocal\PwdFinder\PwdFinder\PwdFinder\bin\Debug\PwdFinder.pdb
+D:\DevLocal\PwdFinder\PwdFinder\PwdFinder\obj\Debug\PwdFinder.csprojResolveAssemblyReference.cache
+D:\DevLocal\PwdFinder\PwdFinder\PwdFinder\obj\Debug\PwdFinder.exe
+D:\DevLocal\PwdFinder\PwdFinder\PwdFinder\obj\Debug\PwdFinder.pdb
+D:\DevLocal\PwdFinder\PwdFinder\PwdFinder\bin\Debug\wordlist.txt
